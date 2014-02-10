@@ -1,0 +1,81 @@
+// Import Bourbon + Neat
+@import "bourbon";
+@import "neat";
+@import "variables";
+
+
+html {
+    font-family: $helvetica;
+    font-size: 18px;
+	background-color: $bg-color;
+	color: $secondary-color;
+}
+
+body {
+	padding: 20px 0 0 0;
+    margin: 0;
+}
+
+header {
+    @include outer-container;
+}
+
+footer {
+    border-top: 50px;
+    background-color:$secondary-color;
+    color: white;
+    padding:50px;
+    bottom:0;
+}
+section {
+    @include outer-container;
+}
+
+article {
+    @include span-columns(5);
+}
+
+h1 {
+	font-size: 50px;
+}
+
+.nav {
+
+	@include clearfix;
+	padding: 0;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    
+    > li {
+        
+    	float: left;
+    	list-style: none;
+
+        > a {
+            color: $primary-color;
+            border-left: 1px solid #fff;
+            padding: 20px 30px;
+        }
+        
+        &:first-child > a {
+            border-left: none;
+        }
+        
+        &.current > a {
+            background-color: $primary-color;
+            color: white;
+        }
+    }
+}
+
+.intro {
+    @include span-columns(12);
+    font-size: 30px;
+}
+
+.btn {
+	@include button(#DC322F);
+	font-size: 18px;
+}

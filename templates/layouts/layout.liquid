@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>{% block title %}Mission Bay Ltd{% endblock %}</title>
+        {{ "app.css" | asset_url | stylesheet_tag }}
+        <!-- TODO: Complete this project :) -->
+    </head>
+    <body>
+        <section>
+            {% include "header" %}  
+            {% block content %}{% endblock %}
+        </section>
+
+        {% include "footer" %}
+    </body>
+</html>
