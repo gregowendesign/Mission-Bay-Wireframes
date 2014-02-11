@@ -42,12 +42,16 @@ article {
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 40.29137%;
+  width: 100%;
   margin-bottom: 70px;
   padding-top: 20px;
   border-top: 1px solid #6e6e6e; }
   article:last-child {
     margin-right: 0; }
+  article:nth-child(1n) {
+    margin-right: 0; }
+  article:nth-child(1n+1) {
+    clear: left; }
   @media screen and (min-width: 320px) and (max-width: 768px) {
     article {
       float: left;
@@ -55,7 +59,11 @@ article {
       margin-right: 4.82916%;
       width: 100%; }
       article:last-child {
-        margin-right: 0; } }
+        margin-right: 0; }
+      article:nth-child(2n) {
+        margin-right: 0; }
+      article:nth-child(2n+1) {
+        clear: left; } }
 
 h1 {
   font-size: 50px; }

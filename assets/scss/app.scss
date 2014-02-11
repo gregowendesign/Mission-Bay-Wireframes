@@ -33,13 +33,15 @@ section {
 }
 
 article {
-    @include span-columns(5);
+    @include span-columns(12);
+    @include omega(1n);
     margin-bottom: 70px;
     padding-top: 20px;
     border-top: 1px solid $secondary-color;
         
         @include media(min-width 320px max-width 768px, 6) {
             @include span-columns(6);
+            @include omega(2n);
         }
 }
 

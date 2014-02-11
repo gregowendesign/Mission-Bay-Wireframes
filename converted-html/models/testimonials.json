@@ -1,69 +1,54 @@
 {
-	"title": "About us",
+	"title": "Testimonials",
 	"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-	"team": [
+	"quotes": [
 		{
-			"name": "Joanna Reesby",
+			"quote": "I am happy to have Joanna represent FremantleMedia on all of our searches as I know that she will be an excellent ambassador for our company and will leave all the candidates feeling positive about the experience. She is fantastic at identifying extremely talented people who will fit into our organisation. I often seek her advice and guidance and she is always extremely supportive and knowledgeable.",
+			"name": "Nicky Gray",
+			"position": "Group HR Director",
+			"company": "FremantleMedia"
+		},
+		{
+			"quote": "I have had the pleasure to work with Joanna and Mission Bay on a number of search assignments for senior roles for Egmont. These have been for very different functional roles, but the diversity of the discipline has never been an issue. On all occasions Joanna has steered the process professionally, and from my point of view, effortlessly. And the results, excellent!",
+			"name": "Rob McMenemy",
+			"position": "SVP",
+			"company": "Egmont English Language and Central Europe; Egmont UK"
+		},
+		{
+			"quote": "The most impressive aspect of working with Joanna is that she listens. I mean really listens. And it shows in the quality and relevance of the candidates put forward. We had a short list of four for a senior role and we would have been happy to appoint any of them.",
+			"name": "Paul McHale",
+			"position": "Group HR Director",
+			"company": "The Economist"
+		},
+		{
+			"quote": "We work with Joanna because she really understands our business, she’s very well connected across candidates all over the world and she is the most thorough and professional of partners. She works as hard as we do and she’s a very valuable resource as we grow internationally.",
+			"name": "Jens Richter",
 			"position": "Managing Director",
-			"img": null,
-			"desc": "Joanna is the founder of Mission Bay Limited. As one of the UK’s leading media head-hunters, she is known for her deep experience in the media industry as both an executive and in recruitment. Her search career began in 2004 when she launched the London office of a US based media search boutique and then later led the media division of Whitehead Mann, subsequently Korn Ferry International London, post-acquisition. <p>Before embarking on her search career, Joanna was at Simon Fuller's 19 Entertainment for four years working across a wide range of commercial activities and projects. She also spent seven years with Hasbro Inc., as global Senior Vice President of Visual Media and Head of International Licensing consecutively. Joanna began her career as an intellectual property lawyer in the U.K. and New Zealand. She has an LLB (hons) from the University of Auckland and an LLM from the University of Cambridge and is currently studying for a B.Sc. in Psychology. <p>Her career, based on the creation and exploitation of all forms of intellectual property in all formats, is characterised by its internationalism, versatility and trusted professionalism with clients and candidates alike. Joanna is a trustee of PAL (Performing Arts Laboratory) and has been since 2005.  www.pallabs.org.  She is a Governor of Westminster Great School and Westminster Under School",
-			"mobile": "+44 (0) 7825 535818",
-			"office": "+44 (0) 20 7470 7292",
-			"email": "joanna.reesby@missionbayltd.com"
+			"company": "Red Arrow Entertainment GmbH"
 		},
 		{
-			"name": "Tony Vardy",
-			"position": "Senior Advisor",
-			"img": null,
-			"desc": "Tony works with Mission Bay Ltd in a range of capacities, advising and consulting on various projects.<p>Most recently he was Managing Director UK and Senior Client Partner at Korn Ferry Whitehead Mann.   Prior to this position, he served as Managing Partner of Spencer Stuart, heading the U.K. business. Additionally, he was also the global/European leader of the firm’s technology, media & telecommunications practice for ten years.<p>Tony has conducted executive searches and succession planning projects for CEOs in the U.K., Continental Europe, the Middle East, South Africa, the U.S., Canada, Australia/New Zealand and Southeast Asia.  He also has led many searches for chairmen and non-executive board members of both large public corporations and pre-IPO, venture capital or private equity-backed businesses, where he is often called upon to give advice based on his in-depth experience with corporate governance and leadership structures.<p>Before entering executive search, he spent ten years with British Telecommunications in the U.K. and the U.S. as executive vice president of British Telecom Inc. in New York, group director of corporate strategy, and managing director of cable television and broadband services.  Earlier in his career, he was a corporate financial analyst for the U.K. Post Office Corporation, working on the spin-off and IPO of their telecoms business and the establishment of the U.K. telecoms regulatory regime. Previously, he was a systems analyst and project manager for Systemes Informatiques et Analytiques, a French-owned IT services company.<p>He is a member of the U.K. Committee of the Global Association of Executive Search Consultants.<p>Tony is a psychology graduate with a master’s degree in business administration from the London Business School. He is a chartered management accountant and a fellow of the U.K.’s Royal Society of Arts.",
-			"mobile": null,
-			"office": "+44 (0) 20 7470 7292",
-			"email": "tony.vardy@missionbayltd.com"	
+			"quote": "Really effective search is based on a thorough understanding of the client, its needs and the market. Over the last five or six years Joanna has successfully identified and placed a number of senior people with us who have contributed to our organisation’s growth. We value her input and the terms bespoke and full service are wholly appropriate",
+			"name": "Stuart Baxter",
+			"position": ", Ex-Senior EVP European Distribution",
+			"company": "Sony Pictures Entertainment"
 		},
 		{
-			"name": "Serena Sharp",
-			"position": "Consultant",
-			"img": null,
-			"desc": "Serena is a Consultant with Mission Bay, and has a background in the technology space with a strong emphasis on digital and online media. Her search career began in her native Australia, with Heidrick & Struggles, and her experience in the executive search industry extended to Europe on her move to the UK in 2008.  Prior to Mission Bay she worked with an international search firm placing senior executive for VC and private equity backed technology and digital businesses.<p>As with all Mission Bay executives, Serena has had a career in industry as well, having worked in marketing for a US software company. Serena graduated with a Bachelor of Business degree from a University in Australia. A keen traveller, she also spent two years in South America, heavily involved in charity work.",
-			"mobile": "+44 (0) 7762 792 853",
-			"office": "+44 (0) 20 7470 7290",
-			"email": "serena.sharp@missionbayltd.com"	
+			"quote": "Joanna Reesby is exceptionally good at responding to a business and client’s needs. Having worked with Joanna for more than 10 years, she is certainly best in class.",
+			"name": "Jason Blain",
+			"position": "CIO",
+			"company": "Thunder Corp"
 		},
 		{
-			"name": "Maya Maraj",
-			"position": "Consultant",
-			"img": null,
-			"desc": "Maya is a consultant with Mission Bay, and has over twenty years’ experience in the media space with a strong licensing and publishing bias.<p>Maya started her career at Penguin Books, where she worked for 12 happy years and headed up the film and TV department, working with high profile authors, all the major broadcasters, film distributors and licensors across children’s and adults.<p>She then joined Simon Fuller's 19 Entertainment, where she worked for 8 years as Head of Licensing, across a wide range of commercial activities for artists and brands including American Idol, David and Victoria Beckham.<p>She then spent two years at Shine, a leading TV production company, as Commercial Manager and is currently also consulting for Scholastic Books.",
-			"mobile": null,
-			"office": null,
-			"email": "maya.maraj@missionbayltd.com"	
+			"quote": "I have had the pleasure of knowing and working with Joanna Reesby for many years in her various roles at Hasbro, 19 Management and then as a brilliant media search executive. I cannot think of anyone better to turn to when looking for a high level executive in our industry. Her advice is invaluable, her insight and problem solving is exceptional and to top it all she is an extremely nice person.",
+			"name": "Helen McAleer",
+			"position": "Managing Director",
+			"company": "Walker Production"
 		},
 		{
-			"name": "Sarah Barber",
-			"position": "Head of Research / Managing Director of Research Europe",
-			"img": null,
-			"desc": "Sarah runs all the operations at MBL and works closely with the team to deliver the MBL assignments.  Sarah has twenty years’ experience in the media space.<p>Beginning her career at 19 within the publicity department of Penguin, Sarah moved to the Film & TV department to help expand Penguin’s burgeoning licensing business.  After a long and happy career, she moved to work on the merchandising and licensing activities at 19 Entertainment and then as Category Manager at Warner Bros.<p>She has an especial strength in the world of publishing.",
-			"mobile": "+44 (0) 7986 463850",
-			"office": "+44 (0) 20 7470 7295",
-			"email": "sarah.barber@missionbayltd.com"
-		},
-		{
-			"name": "Stephen Buchanan",
-			"position": "Head of Operations",
-			"img": null,
-			"desc": "Stephen and his team of eight at Research Europe support Mission Bay Ltd in many ways, principally in research services on assignments.<p>Stephen established Research Europe in 2002. He has 16 years executive search experience, including managing multi-sector research teams at two London-based executive search companies, and delivering senior-level searches across Europe, the Middle East and Africa. Stephen has an MA from Cambridge University. ",
-			"mobile": "+44 (0) 7789 547114",
-			"office": "+44 (0) 3714 3881",
-			"email": "stephen.buchanan@missionbayltd.com"
-		},
-		{
-			"name": "Anthony Bugler",
-			"position": "Analyst",
-			"img": null,
-			"desc": "Anthony joined Mission Bay as a graduate to support the team the areas of in research, analysis and delivery.  Anthony has a BA in English Literature from Royal Holloway, University of London and a love of all things media.",
-			"mobile": null,
-			"office": "+44 02 (0) 7470 7261",
-			"email": "anthony.bugler@missionbayltd.com"
+			"quote": "I cannot think of anyone better to undertake an executive search in the entertainment and media sector.  Joanna's personal experience in the business, her unparalleled contact book, her meticulous MO, and the universal respect in which she is held make her service offering unbeatable",
+			"name": "Richard Bridgwood ",
+			"position": "(former CEO",
+			"company": "Entertainment One UK)"
 		}
 	]
 }
