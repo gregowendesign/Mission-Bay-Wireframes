@@ -1,7 +1,31 @@
 {% block title %}Model Example : Mixture + Bourbon{% endblock %}
 {% block content %}
 	<h1>{{ model.title }}</h1>
-	<p>Contact us information</p>
-	
+
+	<p class="intro">{{ model.description }}</p>
+
+	{% for contact in model.contacts %}
+
+		<article>
+			<p class="bold">{{ contact.description }}</p>
+				</br>{{ contact.name }}
+				</br>{{ contact.position }}
+				<p>{{ contact.email }}
+				</br>{{ contact.office }}
+			</br>{{ contact.mobile }}</p>
+		</article>
+
+	{% endfor %}
+
+	<article>
+			<p class="bold">{{ model.directions }}</p>
+				</br><a href="{{ model.map }}">View map</a>
+				<p>{{ model.tel }}</p>
+				<p>{{ model.address-1 }}
+				</br>{{ model.address-2 }}
+			</br>{{ model.city }}
+			</br>{{ model.postcode }}
+			</br>{{ model.country }}</p>
+		</article>
 
 {% endblock %}

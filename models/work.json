@@ -1,0 +1,150 @@
+{
+	"title": "Our work",
+	"description":"We build on-going, consultative relationships with our clients, and the vast majority of our work is through referral. Client and candidate references are willingly provided. Example clients we have worked with include the following:",
+	"clients": [
+		{
+			"name": "BBC Worldwide",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Banijay Group",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Bentley",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Betsson",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Chorion Limited",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Cookie Jar",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Copyrights Promotion Licensing Group",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "CTVC",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Dorling Kindersley",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "eircom",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Egmont UK",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Entertainment One Limited",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "The Economist Group",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "FremantleMedia Limited",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "UK Broadband Ltd",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Harper Collins",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "IMG",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "ITV plc",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "HMV",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Mattel Inc.",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "MSN",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "NewBay Media LLC",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Penguin Publishing",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Pinewood Iskandar Malaysia Studios",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Random House",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Reed Elsevier",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Saban Brands",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "SevenOne International (part of ProSieben)",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Sony Music",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Sony Pictures Entertainment",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "STV",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Syco Entertainment Group",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "TalkTalk",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "talkbackTHAMES",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Walker Books Waterstones",
+			"img": "http://placehold.it/150"
+		},
+		{
+			"name": "Zodiak Media Group",
+			"img": "http://placehold.it/150"
+		}
+	]
+}

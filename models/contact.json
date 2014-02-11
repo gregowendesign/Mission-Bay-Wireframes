@@ -1,0 +1,30 @@
+{
+	"title": "Contact us",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"map": "https://maps.google.com/maps?ll=51.510723,-0.139393&z=15&t=m",
+	"directions":"Heddon Street is located off Regent Street and easily accessed from two of London's leading Tube Stations: Oxford Circus and Piccadilly Circus.<p>From Oxford Circus simply leave via the south west exit and head south along Regent Street. Heddon Street is a cul-de sac on the south west side of the street some two hundred meters away. Similarly, leave Piccadilly Circus Tube Station using the north west exit and walk up along Regent Street for a 150 metres until you find Heddon Street on your left.",
+	"tel": "+44 (0) 207 470 7292",
+	"address-1": "One Heddon Street",
+	"address-2": "Mayfair",
+	"city": "London",
+	"postcode": "W1B 4BD",
+	"country": "United Kingdom",
+	"contacts": [
+		{
+			"description":"For new business enquiries please contact",
+			"name":"Joanna Reesby",
+			"position":"Managing Director",
+			"email":"joanna.reesby@missionbayltd.com",
+			"office":"+44 (0) 207 470 7294",
+			"mobile":"+44 (0) 7825 535 818"
+		},
+		{
+			"description":"For all other enquiries please contact",
+			"name":"Sarah Barber",
+			"position":"Head of Operations",
+			"email":"sarah.barber@missionbayltd.com",
+			"office":"+44 (0) 207 470 7295",
+			"mobile":"+44 (0) 7986 463850"
+		}
+	]
+}

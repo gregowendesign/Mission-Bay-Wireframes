@@ -1,0 +1,54 @@
+{
+	"title": "Testimonials",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"quotes": [
+		{
+			"quote": "I am happy to have Joanna represent FremantleMedia on all of our searches as I know that she will be an excellent ambassador for our company and will leave all the candidates feeling positive about the experience. She is fantastic at identifying extremely talented people who will fit into our organisation. I often seek her advice and guidance and she is always extremely supportive and knowledgeable.",
+			"name": "Nicky Gray",
+			"position": "Group HR Director",
+			"company": "FremantleMedia"
+		},
+		{
+			"quote": "I have had the pleasure to work with Joanna and Mission Bay on a number of search assignments for senior roles for Egmont. These have been for very different functional roles, but the diversity of the discipline has never been an issue. On all occasions Joanna has steered the process professionally, and from my point of view, effortlessly. And the results, excellent!",
+			"name": "Rob McMenemy",
+			"position": "SVP",
+			"company": "Egmont English Language and Central Europe; Egmont UK"
+		},
+		{
+			"quote": "The most impressive aspect of working with Joanna is that she listens. I mean really listens. And it shows in the quality and relevance of the candidates put forward. We had a short list of four for a senior role and we would have been happy to appoint any of them.",
+			"name": "Paul McHale",
+			"position": "Group HR Director",
+			"company": "The Economist"
+		},
+		{
+			"quote": "We work with Joanna because she really understands our business, she’s very well connected across candidates all over the world and she is the most thorough and professional of partners. She works as hard as we do and she’s a very valuable resource as we grow internationally.",
+			"name": "Jens Richter",
+			"position": "Managing Director",
+			"company": "Red Arrow Entertainment GmbH"
+		},
+		{
+			"quote": "Really effective search is based on a thorough understanding of the client, its needs and the market. Over the last five or six years Joanna has successfully identified and placed a number of senior people with us who have contributed to our organisation’s growth. We value her input and the terms bespoke and full service are wholly appropriate",
+			"name": "Stuart Baxter",
+			"position": ", Ex-Senior EVP European Distribution",
+			"company": "Sony Pictures Entertainment"
+		},
+		{
+			"quote": "Joanna Reesby is exceptionally good at responding to a business and client’s needs. Having worked with Joanna for more than 10 years, she is certainly best in class.",
+			"name": "Jason Blain",
+			"position": "CIO",
+			"company": "Thunder Corp"
+		},
+		{
+			"quote": "I have had the pleasure of knowing and working with Joanna Reesby for many years in her various roles at Hasbro, 19 Management and then as a brilliant media search executive. I cannot think of anyone better to turn to when looking for a high level executive in our industry. Her advice is invaluable, her insight and problem solving is exceptional and to top it all she is an extremely nice person.",
+			"name": "Helen McAleer",
+			"position": "Managing Director",
+			"company": "Walker Production"
+		},
+		{
+			"quote": "I cannot think of anyone better to undertake an executive search in the entertainment and media sector.  Joanna's personal experience in the business, her unparalleled contact book, her meticulous MO, and the universal respect in which she is held make her service offering unbeatable",
+			"name": "Richard Bridgwood ",
+			"position": "(former CEO",
+			"company": "Entertainment One UK)"
+		}
+	]
+}

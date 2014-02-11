@@ -2,16 +2,18 @@
 {% block content %}
 	<h1>{{ model.title }}</h1>
 
+	<p class="intro">{{ model.description }}</p>
+
 		{% for person in model.team %}
 		<article>
-				<img src="images/{{person.img}}.jpg"/>
-				{{ person.name }}
+				<img src=" {{ person.img }}" />
+				</br>{{ person.name }}
 				</br>{{ person.position }}
-				<p>{{person.desc}}</p>
+				<p>{{ person.desc }}</p>
 				<ul>
-					<li>Mobile: {{person.mobile}}</li>
-					<li>Office: {{person.office}}</li>
-					<li>Email: <a href="mailto:{{person.email}}">{{person.email}}</a></li>
+					<li>Mobile: {{ person.mobile }}</li>
+					<li>Office: {{ person.office }}</li>
+					<li>Email: <a href="mailto:{{ person.email }}">{{ person.email }}</a></li>
 				</ul>
 		</article>	
 		{% endfor %}
