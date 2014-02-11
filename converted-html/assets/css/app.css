@@ -159,17 +159,29 @@ ul {
     content: "";
     display: table;
     clear: both; }
+  @media screen and (min-width: 0px) and (max-width: 693px) {
+    .nav {
+      width: 100%;
+      list-style: none; } }
   .nav > li {
     float: left;
     list-style: none;
-    margin-right: 5px; }
+    margin-right: 10px; }
+    @media screen and (min-width: 0px) and (max-width: 693px) {
+      .nav > li {
+        width: 100%;
+        text-align: center; } }
     .nav > li > a {
       color: #6e6e6e;
-      border-left: 1px solid #fff;
       padding: 20px 30px;
       text-decoration: none;
       font-weight: bold;
       background-color: whitesmoke; }
+      @media screen and (min-width: 0px) and (max-width: 693px) {
+        .nav > li > a {
+          padding: 15px 0px;
+          margin-bottom: 1px;
+          display: block; } }
     .nav > li:first-child > a {
       border-left: none; }
     .nav > li.current > a {

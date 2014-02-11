@@ -103,21 +103,36 @@ ul {
     margin:0;
     display: block;
     text-align: center;
-    width: 100%;
-    
+    @include fill-parent;
+
+        @include media(min-width 0px max-width 693px) {
+                @include fill-parent;
+                list-style: none;
+            }
+
     > li {
         
     	float: left;
     	list-style: none;
-        margin-right: 5px;
+        margin-right: 10px;
+
+            @include media(min-width 0px max-width 693px) {
+                @include fill-parent;
+                text-align: center;
+            }
 
         > a {
             color: $secondary-color;
-            border-left: 1px solid #fff;
             padding: 20px 30px;
             text-decoration: none;
             font-weight: bold;
             background-color: $light-grey;
+
+            @include media(min-width 0px max-width 693px) {
+                padding: 15px 0px;
+                margin-bottom: 1px;
+                display: block;
+            }
         }
         
         &:first-child > a {
